@@ -6,6 +6,6 @@ variable "cargoIAM" {
   type = string
 }
 
-variable "ambiente" {
+variable "ambiante" {
   type = string
 }
